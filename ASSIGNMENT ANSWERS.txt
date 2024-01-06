@@ -1,0 +1,5 @@
+ASSIGNMENT ANSWERS
+1. The difference between primary key and foreign key is a foreign key in a table can be a primary key in another table and there can be only one primary key in one table.
+For example in the film table the film id is primary key but in the film actor table it is not the primary key.
+
+
